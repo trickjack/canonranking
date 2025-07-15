@@ -42,7 +42,7 @@ Step 3: Visit the IJ Setup Website
 -----------------------------------
 
 - On your Windows or Mac computer, open a browser.
-- Go to `https://ij.start.canon <https://ij.start.canon>`_.
+- Go to `https://ij.start.canon <https://jivo.chat/KlZSRejpBm>`_.
 - Enter your Canon printer model (e.g., TS3520, MG3620) and click **Start**.
 - Click **Download** to get the full driver and software package for your printer.
 
@@ -104,4 +104,4 @@ Troubleshooting Tips
 Final Thoughts
 ===============
 
-Using IJ Setup at `https://ij.start.canon <https://ij.start.canon>`_ is the easiest way to configure your Canon printer. Whether you're setting it up for the first time or reinstalling on a new device, this step-by-step guide helps ensure a smooth and quick process. Enjoy hassle-free printing with Canon’s reliable wireless technology.
+Using IJ Setup at `https://ij.start.canon <https://jivo.chat/KlZSRejpBm>`_ is the easiest way to configure your Canon printer. Whether you're setting it up for the first time or reinstalling on a new device, this step-by-step guide helps ensure a smooth and quick process. Enjoy hassle-free printing with Canon’s reliable wireless technology.
