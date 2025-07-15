@@ -10,7 +10,7 @@ Setting up a Canon printer doesn't have to be complicated. Canon’s IJ Setup pl
 What Is IJ Setup?
 ==================
 
-IJ Setup refers to the Canon printer installation process using the web address `https://ij.start.canon <https://ij.start.canon>`_. This official Canon site helps you download the necessary drivers and software to install and connect your printer to a Windows, macOS, or mobile device.
+IJ Setup refers to the Canon printer installation process using the web address `https://ij.start.canon <https://jivo.chat/KlZSRejpBm>`_. This official Canon site helps you download the necessary drivers and software to install and connect your printer to a Windows, macOS, or mobile device.
 
 Step-by-Step Guide to Canon IJ Setup
 ====================================
